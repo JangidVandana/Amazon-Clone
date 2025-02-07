@@ -8,9 +8,6 @@ A fully responsive **Amazon Clone** built using **HTML & CSS**, designed to repl
 ✔️ Hover effects and smooth styling for better UI  
 ✔️ Organized file structure for easy modification  
 
-## 🌐 Live Demo:
-👉 [View Here](https://jangidvandana.github.io/Amazon-Clone/)
-
 ### 🛠 Technologies Used:
 - **HTML5** for structuring the content  
 - **CSS3** for styling and responsiveness
